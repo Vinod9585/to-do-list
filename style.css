@@ -1,0 +1,28 @@
+.container {
+  background-color: salmon;
+  border: 5px solid black;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 500px;
+}
+
+input {
+  height: 30px;
+  width: 500px;
+}
+
+#add {
+  height: 30px;
+}
+
+.task {
+  margin: 20px;
+  background-color: lightblue;
+  height: 30px;
+  width: 500px;
+}
+
+.delete {
+  background-color: red;
+}
